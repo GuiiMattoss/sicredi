@@ -112,7 +112,6 @@ public class AvaliacaoApi extends TesteBasico {
 	@Test
 	public void consultarTodasSimulacoes() {
 		given()
-		.log().all()
 		.when()
 			.get("/simulacoes/")
 		.then()
