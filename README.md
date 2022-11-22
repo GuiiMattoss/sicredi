@@ -43,6 +43,7 @@ Se não possui restrição do HTTP Status 204 é retornado
 Se possui restrição o HTTP Status 200 é retornado com a mensagem "O CPF 99999999999 possui restrição"
 CPFs com restrição
 
+  
 CPF
 97093236014
 60094146012
